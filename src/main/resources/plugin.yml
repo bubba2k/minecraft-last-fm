@@ -1,0 +1,17 @@
+name: fm
+version: '${project.version}'
+main: xyz.bubba2k.mcplugins.fmplugin.FMPlugin
+api-version: 1.18
+authors: [ bubba2k ]
+description: Get last.fm stats in Minecraft.
+
+commands:
+  fm:
+    description: Get the currently playing track.
+
+  fmset:
+    description: Set your last.fm username.
+    usage: "Usage: /fmset <username>"
+
+  fmhelp:
+    description: Display information about the fm plugin.

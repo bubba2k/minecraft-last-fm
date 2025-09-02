@@ -1,0 +1,3 @@
+# This file contains the list of players with their corresponding last.fm usernames
+# Uncomment the line below and replace [API_KEY] with your last.fm API key. Read plugin docs for further info.
+# api_key: "[API_KEY]"
