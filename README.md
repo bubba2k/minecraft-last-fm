@@ -1,7 +1,10 @@
 
 ## fm-plugin - Last.fm integration for Minecraft
 
-A PaperMC plugin to query last.fm and let your fellow players know what you are listening to in chat.
+A PaperMC plugin to query last.fm and let your fellow players know what you are listening to.
+
+
+![Ingame output of a few /fm calls](https://github.com/bubba2k/minecraft-last-fm/blob/main/screenshot.png)
 
 ### Setup
 
